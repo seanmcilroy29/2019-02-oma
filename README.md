@@ -11,6 +11,8 @@ Time: 2019-02-26 8:00-10:00 PST (17:00-19:00 CET)
 * [CoRE Dynlink](https://tools.ietf.org/html/draft-ietf-core-dynlink-07): LwM2M use alignment
 * [CoRE Resource Directory](https://tools.ietf.org/html/draft-ietf-core-resource-directory-19): recent changes and their effect on LwM2M
 * [SenML FETCH/PATCH](https://tools.ietf.org/html/draft-ietf-core-senml-etch-00): Read-Composite and Write-Composite with FETCH/PATCH
+* [URNs for Device Identifiers](https://tools.ietf.org/html/draft-ietf-core-dev-urn-03): LwM2M use alignment
+* Data types and encodings
  
 ## Call-in info
 
@@ -45,8 +47,6 @@ Recent changes in the RD draft and their effect on LwM2M.
 * SenML FETCH/PATCH status and Read-Composite and Write-Composite LwM2M use. New media types needed to avoid context-aware processing.
 
 ### URNs for Device Identifiers
-
-Draft: https://tools.ietf.org/html/draft-ietf-core-dev-urn-03
 
 LwM2M uses dev-URNs for [Endpoint Client Names](http://www.openmobilealliance.org/release/LightweightM2M/V1_1-20180612-C/OMA-TS-LightweightM2M_Core-V1_1-20180612-C.html#7-3-1-0-731-Endpoint-Client-Name). Do we have all cases covered or is further alignment needed?
 

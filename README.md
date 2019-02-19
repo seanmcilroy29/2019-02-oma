@@ -6,13 +6,16 @@ Time: 2019-02-26 8:00-10:00 PST (17:00-19:00 CET)
 
 ## Draft Agenda
 
-* Introductions 
-* [CoAP Observe](https://tools.ietf.org/html/rfc7641): observations across security context changes
-* [CoRE Dynlink](https://tools.ietf.org/html/draft-ietf-core-dynlink-07): LwM2M use alignment
-* [CoRE Resource Directory](https://tools.ietf.org/html/draft-ietf-core-resource-directory-19): recent changes and their effect on LwM2M
-* [SenML FETCH/PATCH](https://tools.ietf.org/html/draft-ietf-core-senml-etch-00): Read-Composite and Write-Composite with FETCH/PATCH
-* [URNs for Device Identifiers](https://tools.ietf.org/html/draft-ietf-core-dev-urn-03): LwM2M use alignment
-* Data types and encodings
+| time (PST) |  topic |
+|------------|--------|
+| 8:00 | Introductions |
+| 8:15 | [CoAP Observe](https://tools.ietf.org/html/rfc7641): observations across security context changes |
+| 8:30 | [CoRE Dynlink](https://tools.ietf.org/html/draft-ietf-core-dynlink-07): LwM2M use alignment |
+| 8:50 | [CoRE Resource Directory](https://tools.ietf.org/html/draft-ietf-core-resource-directory-19): recent changes and their effect on LwM2M |
+| 9:20 | [SenML FETCH/PATCH](https://tools.ietf.org/html/draft-ietf-core-senml-etch-00): Read-Composite and Write-Composite with FETCH/PATCH | 
+| 9:35 | [URNs for Device Identifiers](https://tools.ietf.org/html/draft-ietf-core-dev-urn-03): LwM2M use alignment |
+| 9:45 | Data types and encodings |
+| 9:55 | Closing: conclusions & way forward |
  
 ## Call-in info
 

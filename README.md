@@ -19,7 +19,10 @@ Time: 2019-02-26 8:00-10:00 PST (17:00-19:00 CET)
  
 ## Call-in info
 
-TBD
+Joint call IETF / OMA 
+Tue, Feb 26, 2019 4:00 PM - 7:00 PM GMT 
+Please join my meeting from your computer, tablet or smartphone. 
+https://global.gotomeeting.com/join/708980637 
 
 ## Meeting minutes
 
